@@ -1,37 +1,99 @@
-## English / Inglês
+<p align="center">
+  <img src="assets/banner.png" alt="CapivaTech: mathematics, physics, automation and programming" width="100%">
+</p>
 
-# CapivaTech Junior: Innovation in Control and Automation
-
-CapivaTech Junior, founded by UNILA students Bruno Macedo, Felipe Camargo, and Renata Olmedo from the Engineering Physics program, is a standout company in the realm of Control and Automation. The company's expertise encompasses Machine Learning, Internet of Things (IoT), and Industrial Process Automation.
-
-🤖🌐 **Machine Learning Excellence:** In the field of Machine Learning, CapivaTech Junior employs advanced algorithms and techniques to craft solutions that empower automated systems to learn and improve based on data. This optimization enhances industrial processes, boosting operational efficiency. They develop prediction, classification, and optimization models, enabling businesses to make informed decisions and enhance their operations.
-
-📡🏭 **IoT Ingenuity:** CapivaTech Junior excels in intelligently integrating devices and sensors within industrial environments within the realm of the Internet of Things (IoT). Real-time data collection and analysis offer valuable insights to increase productivity, monitor assets, and perform predictive maintenance. The team designs and implements customized IoT systems, interconnecting machinery, equipment, and infrastructure, leading to heightened process control and visibility.
-
-🔌⚙️ **Empowerment in Industrial Processes:** In the realm of Industrial Process Control and Automation, the company develops solutions to optimize operations in factories and industrial plants. This includes automating repetitive tasks, implementing advanced control systems, and integrating technologies that enhance efficiency and process safety.
-
-In summary, CapivaTech Junior is at the forefront of innovation in the field of Control and Automation. Founded by Engineering Physics students at UNILA, their mastery of Machine Learning, IoT, and Industrial Process Control enables them to create tailored solutions for companies seeking to optimize operations, enhance decision-making, and stand out in the digital transformation journey. 🚀🔗
-
-Connect with us:
-Website: [capivatechjr.com](https://www.capivatechjr.com)
-LinkedIn: [CapivaTech Junior](https://www.linkedin.com/company/capivatechjr)
+<p align="center">
+  <a href="#english">English</a> · <a href="#português">Português</a> ·
+  <a href="https://capivatec.github.io/">Website</a> ·
+  <a href="https://www.linkedin.com/company/capivatechjr">LinkedIn</a>
+</p>
 
 ---
-## Português / Portuguese
 
-# CapivaTech Júnior: Inovação em Controle e Automação
+## English
 
-A CapivaTech Júnior, fundada por estudantes da UNILA - Bruno Macedo, Felipe Camargo e Renata Olmedo - do curso de Engenharia Física, é uma empresa de destaque na área de Controle e Automação. A expertise da empresa abrange Aprendizado de Máquina (Machine Learning), Internet das Coisas (IoT) e Automação de Processos Industriais.
+<p align="center"><code>&gt; capivatech --mission</code><br>solve real problems for academia and society</p>
 
-🤖🌐 **Excelência em Aprendizado de Máquina:** No campo de Aprendizado de Máquina, a CapivaTech Júnior utiliza algoritmos e técnicas avançadas para criar soluções que capacitam sistemas automatizados a aprender e melhorar com base em dados. Isso otimiza processos industriais, aumentando a eficiência operacional. Eles desenvolvem modelos de previsão, classificação e otimização, permitindo que empresas tomem decisões informadas e aprimorem suas operações.
+**CapivaTech** is a **non-profit technology collective** created by former Engineering Physics undergraduates at the Federal University of Latin American Integration (**UNILA**), in Foz do Iguaçu, Brazil. It was born as a project in the **Project Development** course and continues today as a hobby: we use **mathematics, physics, automation and programming** to optimize processes and build open solutions for research, the university and the community.
 
-📡🏭 **Engenhosidade em IoT:** A CapivaTech Júnior destaca-se na integração inteligente de dispositivos e sensores em ambientes industriais no âmbito da Internet das Coisas (IoT). A coleta e análise de dados em tempo real proporcionam insights valiosos para aumentar a produtividade, monitorar ativos e realizar manutenção preditiva. A equipe projeta e implementa sistemas personalizados de IoT, conectando maquinário, equipamentos e infraestrutura, resultando em um maior controle e visibilidade dos processos.
+### What we do
 
-🔌⚙️ **Empoderamento de Processos Industriais:** No âmbito do Controle e Automação de processos industriais, a empresa desenvolve soluções para otimizar operações em fábricas e plantas industriais. Isso inclui automatizar tarefas repetitivas, implementar sistemas avançados de controle e integrar tecnologias que aumentam a eficiência e a segurança dos processos.
+| | Area | Examples |
+|:-:|---|---|
+| **∑** | **Mathematics and optimization** | modelling, numerical methods, statistics, process optimization |
+| **ψ** | **Computational physics** | materials simulation, electronic structure, data analysis for research |
+| **⚙** | **Automation and control** | PID control, PLCs, robotics, industrial processes |
+| **&lt;/&gt;** | **Programming and scientific software** | open tools and applications for laboratories and students |
+| **((•))** | **IoT and instrumentation** | sensors, microcontrollers, real-time data collection |
+| **∇** | **Artificial intelligence** | machine learning for prediction, classification and decision support |
 
-Em resumo, a CapivaTech Júnior está na vanguarda da inovação em Controle e Automação. Fundada por estudantes de Engenharia Física na UNILA, sua maestria em Aprendizado de Máquina, IoT e Controle de Processos Industriais permite que eles criem soluções personalizadas para empresas que buscam otimizar suas operações, aprimorar a tomada de decisões e se destacar na transformação digital. 🚀🔗
+### How we work
 
-Conecte-se conosco:
-Website: [capivatechjr.com](https://www.capivatechjr.com)
-LinkedIn: [CapivaTech Júnior](https://www.linkedin.com/company/capivatechjr)
+- **Open source:** what we build is available for anyone to study, use and improve.
+- **Non-profit:** we work for purpose; our reward is a solved problem.
+- **Real problems:** we start from a concrete need of a laboratory, a school or the community.
+- **Credit and collaboration:** we work with researchers, students and organizations, crediting every person.
 
+### Projects
+
+| Project | Description |
+|---|---|
+| [**Weather data platform**](https://github.com/capivatec/CapivaTech) | Solar-powered IoT weather station with ESP8266: wind, temperature, humidity, pressure and rain, with local storage and internet upload. A basis for solar-energy studies. |
+| [**BrUMaRe**](https://brunohdmacedo.tech/brumare/) | Free software to analyse electronic-structure calculations (CASTEP, VASP, SIESTA, Quantum ESPRESSO and ORCA). A project by founder Bruno Macedo, developed during his master's. |
+
+### Founders
+
+**Bruno Henrique Dourado Macedo** · **Felipe Camargo** · **Renata Olmedo Benedet**
+
+Have a problem in research, at university or in the community that technology can solve? [Open an issue](https://github.com/capivatec/CapivaTech/issues) or visit [capivatec.github.io](https://capivatec.github.io/).
+
+---
+
+## Português
+
+<p align="center"><code>&gt; capivatech --missao</code><br>resolver problemas reais da academia e da sociedade</p>
+
+A **CapivaTech** é um **coletivo de tecnologia sem fins lucrativos**, criado por ex-estudantes de graduação em Engenharia Física da Universidade Federal da Integração Latino-Americana (**UNILA**), em Foz do Iguaçu. Nasceu como projeto da disciplina de **Desenvolvimento de Projetos** e continua hoje como hobby: usamos **matemática, física, automação e programação** para otimizar processos e criar soluções abertas para a pesquisa, a universidade e a comunidade.
+
+### O que fazemos
+
+| | Área | Exemplos |
+|:-:|---|---|
+| **∑** | **Matemática e otimização** | modelagem, métodos numéricos, estatística, otimização de processos |
+| **ψ** | **Física computacional** | simulação de materiais, estrutura eletrônica, análise de dados para pesquisa |
+| **⚙** | **Automação e controle** | controle PID, CLPs, robótica, processos industriais |
+| **&lt;/&gt;** | **Programação e software científico** | ferramentas e aplicações abertas para laboratórios e estudantes |
+| **((•))** | **IoT e instrumentação** | sensores, microcontroladores, coleta de dados em tempo real |
+| **∇** | **Inteligência artificial** | aprendizado de máquina para previsão, classificação e apoio à decisão |
+
+### Como trabalhamos
+
+- **Código aberto:** o que criamos fica disponível para qualquer pessoa estudar, usar e melhorar.
+- **Sem fins lucrativos:** trabalhamos por propósito; nossa recompensa é o problema resolvido.
+- **Problemas reais:** partimos de uma necessidade concreta de um laboratório, de uma escola ou da comunidade.
+- **Crédito e colaboração:** trabalhamos com pesquisadores, estudantes e organizações, dando crédito a cada pessoa.
+
+### Projetos
+
+| Projeto | Descrição |
+|---|---|
+| [**Plataforma de dados meteorológicos**](https://github.com/capivatec/CapivaTech) | Estação meteorológica IoT com ESP8266 e energia solar: vento, temperatura, umidade, pressão e chuva, com armazenamento local e envio pela internet. Base para estudos de geração solar. |
+| [**BrUMaRe**](https://brunohdmacedo.tech/brumare/) | Software livre para analisar cálculos de estrutura eletrônica (CASTEP, VASP, SIESTA, Quantum ESPRESSO e ORCA). Projeto do fundador Bruno Macedo, desenvolvido no mestrado. |
+
+### Fundadores
+
+**Bruno Henrique Dourado Macedo** · **Felipe Camargo** · **Renata Olmedo Benedet**
+
+Tem um problema na pesquisa, na universidade ou na comunidade que a tecnologia pode resolver? [Abra uma issue](https://github.com/capivatec/CapivaTech/issues) ou visite [capivatec.github.io](https://capivatec.github.io/).
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-escuro.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo-claro.png">
+    <img src="assets/logo-escuro.png" alt="CapivaTech" width="420">
+  </picture>
+  <br>
+  <sub>∫ ψ ⚙ &lt;/&gt; · non-profit · sem fins lucrativos · open source · código aberto · UNILA</sub>
+</p>
